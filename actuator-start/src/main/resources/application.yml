@@ -8,6 +8,8 @@ management:
       enabled: true
     build:
       enabled: true
+  server:
+    port: 9292
 
   endpoint:
     shutdown:
